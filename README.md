@@ -105,3 +105,7 @@ La topología general contempla una sede central en Santo Domingo, un router de 
 ---
 
 <p align="center"><sub>Proyecto académico — ITLA · Conmutación y Enrutamiento · uso educativo.</sub></p>
+
+## Mis aportes
+
+Repositorio de trabajo de Carlos-2140.
